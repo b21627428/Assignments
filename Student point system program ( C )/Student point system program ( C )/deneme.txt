@@ -1,0 +1,5 @@
+1 yksel 100 100 A1
+2 melek 100 100 A1
+3 furkan 0 0 F
+4 muhammed 100 100 A1
+5 ahmet 100 100 A1
